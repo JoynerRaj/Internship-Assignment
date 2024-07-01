@@ -1,102 +1,101 @@
-Period: 2024-06-30 - 2024-06-30
 No,Productname,categories,Initialinventory,week #1,week #2,week #3,week #4
-1,Ballpoint Pens,Writing Instruments,250,172,60,1,2
-2,Gel Pens,Writing Instruments,250,236,6,2,1
-3,Fountain Pens,Writing Instruments,250,136,87,27,0
-4,Mechanical Pencils,Writing Instruments,250,20,230,0,0
-5,Wooden Pencils,Writing Instruments,250,212,23,6,6
-6,Highlighters,Writing Instruments,250,65,65,35,32
-7,Markers,Writing Instruments,250,121,90,0,35
-8,Permanent Markers,Writing Instruments,250,185,54,5,3
-9,Whiteboard Markers,Writing Instruments,250,121,55,29,18
-10,Colored Pencils,Writing Instruments,250,149,28,58,7
-11,Crayons,Writing Instruments,250,191,59,0,0
-12,Fine Liners,Writing Instruments,250,10,214,26,0
-13,Erasers,Writing Instruments,250,17,16,147,36
-14,Pencil Sharpeners,Writing Instruments,250,36,64,33,25
-15,Correction Tape,Writing Instruments,100,4,0,86,1
-16,Correction Fluid,Writing Instruments,100,51,15,8,16
-17,Rulers,Measuring Tools,50,36,12,2,0
-18,Protractors,Measuring Tools,50,41,0,9,0
-19,Compasses,Measuring Tools,50,45,4,1,0
-20,Set Squares,Measuring Tools,50,17,22,6,2
-21,Drafting Stencils,Drawing Tools,50,44,4,0,2
-22,Graph Paper,Paper Products,75,75,0,0,0
-23,Notebooks,Paper Products,75,70,0,5,0
-24,Spiral Notebooks,Paper Products,75,35,4,7,8
-25,Sticky Notes,Paper Products,75,51,8,15,0
-26,Index Cards,Paper Products,75,59,3,2,5
-27,Envelopes,Paper Products,75,64,5,1,1
-28,Manila Folders,Filing Supplies,25,4,20,0,1
-29,Hanging File Folders,Filing Supplies,25,17,2,6,0
-30,Expanding Files,Filing Supplies,25,7,3,8,5
-31,File Dividers,Filing Supplies,25,14,3,1,3
-32,File Binders,Filing Supplies,25,18,2,4,1
-33,Lever Arch Files,Filing Supplies,25,13,5,6,0
-34,Paper Clips,Fasteners,150,60,80,5,5
-35,Binder Clips,Fasteners,150,132,3,13,0
-36,Staplers,Fasteners,150,62,68,15,0
-37,Staples,Fasteners,150,54,77,15,0
-38,Staple Removers,Fasteners,150,112,30,4,1
-39,Rubber Bands,Fasteners,150,38,64,6,9
-40,Thumb Tacks,Fasteners,150,137,12,1,0
-41,Push Pins,Fasteners,150,69,23,6,40
-42,Drawing Pins,Fasteners,150,83,13,30,12
-43,Glue Sticks,Adhesives,200,34,103,38,4
-44,Liquid Glue,Adhesives,200,95,51,11,14
-45,Double-sided Tape,Adhesives,200,18,76,39,59
-46,Masking Tape,Adhesives,200,151,3,31,7
-47,Transparent Tape,Adhesives,200,84,113,0,3
-48,Packing Tape,Adhesives,200,70,6,112,12
-49,Scissors,Cutting Tools,60,1,8,22,18
-50,Craft Knives,Cutting Tools,60,39,11,4,0
-51,Cutting Mats,Cutting Tools,60,55,5,0,0
-52,Paper Cutters,Cutting Tools,60,42,6,5,4
-53,Sticky Tack,Adhesives,75,11,64,0,0
-54,Hole Punchers,Office Supplies,50,41,5,4,0
-55,Paper Trimmers,Cutting Tools,40,34,2,1,3
-56,Desk Organizers,Desk Accessories,60,8,3,19,23
-57,Pencil Holders,Desk Accessories,60,6,17,33,2
-58,Tape Dispensers,Desk Accessories,60,23,5,4,28
-59,Letter Openers,Desk Accessories,60,45,12,0,0
-60,Desk Calendars,Desk Accessories,60,40,10,2,1
-61,Whiteboards,Boards & Easels,15,0,10,5,0
-62,Whiteboard Erasers,Boards & Easels,15,2,2,7,2
-63,Cork Boards,Boards & Easels,15,12,2,0,1
-64,Bulletin Boards,Boards & Easels,15,8,7,0,0
-65,Flip Charts,Boards & Easels,15,13,2,0,0
-66,Desk Lamps,Desk Accessories,7,4,2,1,0
-67,File Boxes,Filing Supplies,12,1,1,4,1
-68,Document Holders,Filing Supplies,12,3,8,0,1
-69,Pen Refills,Writing Instruments,150,32,96,9,6
-70,Planner Notebooks,Paper Products,60,52,3,2,2
-71,Address Books,Paper Products,60,11,11,31,2
-72,Stamps,Office Supplies,75,3,26,11,35
-73,Ink Pads,Office Supplies,75,57,12,2,3
-74,Envelop Sealers,Office Supplies,75,2,22,20,10
-75,Label Makers,Office Supplies,75,44,20,4,4
-76,Labels,Office Supplies,75,29,14,0,10
-77,Rubber Stamps,Office Supplies,75,8,55,0,11
-78,Paper Weights,Desk Accessories,25,6,7,5,2
-79,Desk Trays,Desk Accessories,25,23,0,0,1
-80,Clipboards,Office Supplies,55,35,5,8,0
-81,Business Card Holders,Office Supplies,55,7,35,6,0
-82,Badge Holders,Office Supplies,55,53,1,1,0
-83,ID Card Holders,Office Supplies,55,53,2,0,0
-84,Laminating Pouches,Office Supplies,55,47,4,0,0
-85,Laminators,Office Supplies,55,1,48,1,3
-86,Shredders,Office Supplies,55,3,6,38,3
-87,Label Tapes,Office Supplies,55,24,13,1,13
-88,Postage Scales,Office Supplies,55,5,23,16,6
-89,Mouse Pads,Desk Accessories,30,20,6,4,0
-90,Desk Pads,Desk Accessories,30,15,1,5,1
-91,Computer Cleaning Kits,Cleaning Supplies,30,16,10,1,3
-92,Screen Wipes,Cleaning Supplies,30,11,7,1,11
-93,Keyboard Cleaners,Cleaning Supplies,30,28,1,1,0
-94,Printer Paper,Paper Products,500,8,438,51,1
-95,Photo Paper,Paper Products,500,495,2,1,0
-96,Fax Paper Rolls,Paper Products,500,142,158,94,23
-97,Business Envelopes,Paper Products,500,284,8,4,180
-98,A4 Paper,Paper Products,500,95,281,99,16
-99,Legal Pads,Paper Products,500,153,166,4,18
-100,Report Covers,Paper Products,500,102,32,72,139
+14-06-2024,Ballpoint Pens,Writing Instruments,250,151,77,3,9
+28-06-2024,Gel Pens,Writing Instruments,250,248,2,0,0
+24-06-2024,Fountain Pens,Writing Instruments,250,64,10,10,9
+04-06-2024,Mechanical Pencils,Writing Instruments,250,172,73,1,4
+14-06-2024,Wooden Pencils,Writing Instruments,250,102,1,1,119
+11-06-2024,Highlighters,Writing Instruments,250,38,133,4,37
+29-06-2024,Markers,Writing Instruments,250,178,29,13,6
+29-06-2024,Permanent Markers,Writing Instruments,250,208,3,35,4
+01-06-2024,Whiteboard Markers,Writing Instruments,250,4,52,17,31
+02-06-2024,Colored Pencils,Writing Instruments,250,86,141,2,4
+28-06-2024,Crayons,Writing Instruments,250,179,53,11,3
+20-06-2024,Fine Liners,Writing Instruments,250,8,70,34,107
+13-06-2024,Erasers,Writing Instruments,250,245,0,0,2
+11-06-2024,Pencil Sharpeners,Writing Instruments,250,80,43,122,2
+11-06-2024,Correction Tape,Writing Instruments,100,84,16,0,0
+14-06-2024,Correction Fluid,Writing Instruments,100,11,75,10,3
+02-06-2024,Rulers,Measuring Tools,50,4,31,5,10
+15-06-2024,Protractors,Measuring Tools,50,15,22,9,3
+25-06-2024,Compasses,Measuring Tools,50,17,1,9,15
+28-06-2024,Set Squares,Measuring Tools,50,19,29,2,0
+02-06-2024,Drafting Stencils,Drawing Tools,50,4,34,8,1
+04-06-2024,Graph Paper,Paper Products,75,18,39,5,3
+29-06-2024,Notebooks,Paper Products,75,5,59,2,7
+25-06-2024,Spiral Notebooks,Paper Products,75,75,0,0,0
+18-06-2024,Sticky Notes,Paper Products,75,53,1,7,8
+15-06-2024,Index Cards,Paper Products,75,11,31,10,5
+28-06-2024,Envelopes,Paper Products,75,14,13,11,19
+27-06-2024,Manila Folders,Filing Supplies,25,12,0,5,5
+26-06-2024,Hanging File Folders,Filing Supplies,25,8,15,0,2
+03-06-2024,Expanding Files,Filing Supplies,25,3,11,7,1
+21-06-2024,File Dividers,Filing Supplies,25,15,0,2,3
+28-06-2024,File Binders,Filing Supplies,25,20,0,2,1
+04-06-2024,Lever Arch Files,Filing Supplies,25,11,0,5,2
+22-06-2024,Paper Clips,Fasteners,150,104,0,2,29
+21-06-2024,Binder Clips,Fasteners,150,44,66,24,5
+28-06-2024,Staplers,Fasteners,150,110,40,0,0
+04-06-2024,Staples,Fasteners,150,94,30,16,5
+15-06-2024,Staple Removers,Fasteners,150,66,35,4,15
+05-06-2024,Rubber Bands,Fasteners,150,76,68,3,3
+09-06-2024,Thumb Tacks,Fasteners,150,137,7,4,1
+02-06-2024,Push Pins,Fasteners,150,143,3,2,1
+04-06-2024,Drawing Pins,Fasteners,150,5,63,34,33
+13-06-2024,Glue Sticks,Adhesives,200,45,138,5,11
+22-06-2024,Liquid Glue,Adhesives,200,15,105,35,44
+14-06-2024,Double-sided Tape,Adhesives,200,189,6,5,0
+18-06-2024,Masking Tape,Adhesives,200,4,35,101,2
+08-06-2024,Transparent Tape,Adhesives,200,36,7,60,71
+03-06-2024,Packing Tape,Adhesives,200,22,169,4,5
+18-06-2024,Scissors,Cutting Tools,60,15,22,10,4
+01-06-2024,Craft Knives,Cutting Tools,60,34,21,0,5
+19-06-2024,Cutting Mats,Cutting Tools,60,58,0,1,1
+25-06-2024,Paper Cutters,Cutting Tools,60,3,1,1,3
+21-06-2024,Sticky Tack,Adhesives,75,25,23,3,1
+24-06-2024,Hole Punchers,Office Supplies,50,15,2,17,16
+11-06-2024,Paper Trimmers,Cutting Tools,40,36,1,0,1
+13-06-2024,Desk Organizers,Desk Accessories,60,55,4,0,1
+23-06-2024,Pencil Holders,Desk Accessories,60,28,12,0,17
+13-06-2024,Tape Dispensers,Desk Accessories,60,24,11,4,0
+01-06-2024,Letter Openers,Desk Accessories,60,46,11,0,3
+24-06-2024,Desk Calendars,Desk Accessories,60,5,49,0,3
+06-06-2024,Whiteboards,Boards & Easels,15,6,9,0,0
+17-06-2024,Whiteboard Erasers,Boards & Easels,15,1,2,1,6
+16-06-2024,Cork Boards,Boards & Easels,15,13,1,0,1
+13-06-2024,Bulletin Boards,Boards & Easels,15,10,1,3,1
+07-06-2024,Flip Charts,Boards & Easels,15,5,5,5,0
+17-06-2024,Desk Lamps,Desk Accessories,7,3,2,1,0
+18-06-2024,File Boxes,Filing Supplies,12,0,3,6,2
+02-06-2024,Document Holders,Filing Supplies,12,4,6,2,0
+22-06-2024,Pen Refills,Writing Instruments,150,138,3,2,7
+25-06-2024,Planner Notebooks,Paper Products,60,6,52,1,1
+25-06-2024,Address Books,Paper Products,60,36,22,1,1
+21-06-2024,Stamps,Office Supplies,75,20,50,1,4
+20-06-2024,Ink Pads,Office Supplies,75,22,8,44,0
+01-06-2024,Envelop Sealers,Office Supplies,75,27,2,31,7
+11-06-2024,Label Makers,Office Supplies,75,16,51,8,0
+28-06-2024,Labels,Office Supplies,75,65,1,5,1
+28-06-2024,Rubber Stamps,Office Supplies,75,24,19,17,5
+03-06-2024,Paper Weights,Desk Accessories,25,23,1,1,0
+08-06-2024,Desk Trays,Desk Accessories,25,14,1,3,0
+22-06-2024,Clipboards,Office Supplies,55,31,9,12,3
+21-06-2024,Business Card Holders,Office Supplies,55,50,3,2,0
+01-06-2024,Badge Holders,Office Supplies,55,52,0,1,1
+14-06-2024,ID Card Holders,Office Supplies,55,15,1,29,6
+20-06-2024,Laminating Pouches,Office Supplies,55,40,12,2,0
+24-06-2024,Laminators,Office Supplies,55,32,7,1,0
+14-06-2024,Shredders,Office Supplies,55,52,3,0,0
+09-06-2024,Label Tapes,Office Supplies,55,5,13,28,5
+06-06-2024,Postage Scales,Office Supplies,55,24,1,0,11
+29-06-2024,Mouse Pads,Desk Accessories,30,22,4,4,0
+29-06-2024,Desk Pads,Desk Accessories,30,12,18,0,0
+20-06-2024,Computer Cleaning Kits,Cleaning Supplies,30,3,21,5,0
+29-06-2024,Screen Wipes,Cleaning Supplies,30,13,4,6,7
+06-06-2024,Keyboard Cleaners,Cleaning Supplies,30,19,7,2,1
+10-06-2024,Printer Paper,Paper Products,500,169,279,41,6
+19-06-2024,Photo Paper,Paper Products,500,350,101,15,29
+09-06-2024,Fax Paper Rolls,Paper Products,500,299,101,91,3
+22-06-2024,Business Envelopes,Paper Products,500,19,433,9,12
+21-06-2024,A4 Paper,Paper Products,500,56,180,238,22
+17-06-2024,Legal Pads,Paper Products,500,75,171,196,5
+13-06-2024,Report Covers,Paper Products,500,19,390,89,1
