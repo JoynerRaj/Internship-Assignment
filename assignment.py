@@ -1,21 +1,29 @@
 import random 
 import csv
 import datetime
-today = datetime.date.today()
+
+def random_value(inventory):
+    sales=[]
+    for i in range(4):
+        sale=random.randint(0,inventory)
+        inventory -= sale
+        sales.append(sale)
+    return sales
+
+today = datetime.date.today()    
 def create_csv():
-    
-     with open("sales report.csv", 'r') as csvfile,open("inventory_restock.csv", 'w', newline='') as outfile:
+     with open("categories.csv", 'r') as csvfile,open(f"sales report - {today}.csv", 'w', newline='') as outfile:
         reader = csv.reader(csvfile)
         writer = csv.writer(outfile)
         next(reader)
-        next(reader)
-        writer.writerow([f"Date:{today}"])
-        writer.writerow(["No","Productname","categories","Initialinventory","week #1","week #2","week #3","week #4","Total_sales","current_inventory","Restock_inventory"])
+        writer.writerow([f"Period: {today} - {today}"])
+        writer.writerow(["No","Productname","categories","Initialinventory","week #1","week #2","week #3","week #4"])
         for row in reader:
-            total_sales = sum(int(val) for val in row[4:])
-            current_inventory = int(row[3])-total_sales
-            
-            writer.writerow([row[0],row[1],row[2],row[3],row[4],row[5],row[6],row[7],total_sales,current_inventory,total_sales])
+            Initialinventory = row[3] 
+            inventory=int(Initialinventory)
+            sales = random_value(inventory)
+            #No = row[0],Productname = row[1],Productname = row[1]
+            writer.writerow([row[0],row[1],row[2],row[3]] + sales)
 create_csv()
-line = open("inventory_restock.csv")
+line = open(f"monthly_sales_report - {today}.csv")
 print(line.read())
