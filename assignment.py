@@ -25,5 +25,5 @@ def create_csv():
             #No = row[0],Productname = row[1],Productname = row[1]
             writer.writerow([row[0],row[1],row[2],row[3]] + sales)
 create_csv()
-line = open(f"monthly_sales_report - {today}.csv")
+line = open(f"sales report - {today}.csv")
 print(line.read())
