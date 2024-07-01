@@ -4,7 +4,7 @@ import datetime
 today = datetime.date.today()
 def create_csv():
     
-     with open("monthly_sales_report.csv", 'r') as csvfile,open("inventory_restock.csv", 'w', newline='') as outfile:
+     with open("sales report.csv", 'r') as csvfile,open("inventory_restock.csv", 'w', newline='') as outfile:
         reader = csv.reader(csvfile)
         writer = csv.writer(outfile)
         next(reader)
